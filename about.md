@@ -33,9 +33,14 @@
     <p>Feel free to explore my work, connect with me, or reach out if you'd like to collaborate!</p>
   </div>
   <div class="container">
-    <h1>About Me</h1>
+    <h1>Programming Projects</h1>
     <p>Hello! I'm currently a sophomore at BYU studying computer science. A couple projects I've made that you might find interesting are my functioning chess game, Haikyuu word game website, and 3d platforming challenge game!</p>
     <p>You can check all of these out on my Github</p>
+  </div>
+  <div class="container">
+    <h1>Modelling with Maya</h1>
+    <p>I have also made a couple of projects through Maya. You can check them out here</p>
+    <p>Feel free to explore my work, connect with me, or reach out if you'd like to collaborate!</p>
   </div>
 </body>
 </html>
