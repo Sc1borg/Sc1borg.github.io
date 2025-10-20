@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -30,8 +29,13 @@
 <body>
   <div class="container">
     <h1>About Me</h1>
-    <p>Hello! I'm Eric Jensen, a passionate developer with experience in web development, programming, and technology. I love creating clean, efficient, and user-friendly websites and applications. This site is hosted on GitHub Pages, and I'm excited to share my projects and ideas here.</p>
+    <p>Hello! I'm Eric Jensen, a passionate developer with experience in web development, programming, and technology. I love creating clean, efficient, and user-friendly websites and applications.</p>
     <p>Feel free to explore my work, connect with me, or reach out if you'd like to collaborate!</p>
+  </div>
+  <div class="container">
+    <h1>About Me</h1>
+    <p>Hello! I'm currently a sophomore at BYU studying computer science. A couple projects I've made that you might find interesting are my functioning chess game, Haikyuu word game website, and 3d platforming challenge game!</p>
+    <p>You can check all of these out on my Github</p>
   </div>
 </body>
 </html>
