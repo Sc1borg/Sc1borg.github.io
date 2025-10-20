@@ -29,6 +29,7 @@
 <body>
   <div class="container">
     <h1>About Me</h1>
+    <img src="EricJensen.jpg" height = 300px />
     <p>Hello! I'm Eric Jensen, a passionate developer with experience in web development, programming, and technology. I love creating clean, efficient, and user-friendly websites and applications.</p>
     <p>Feel free to explore my work, connect with me, or reach out if you'd like to collaborate!</p>
   </div>
