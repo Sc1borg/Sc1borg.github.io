@@ -40,9 +40,9 @@
   <div class="container">
     <h1>Modelling with Maya</h1>
     <p>I have also made a couple of projects through Maya. You can check them out here</p>
-    <img href= "EricJensenBug.jpg" />
-    <img href= "EricJensenBuilding.jpg" />
-    <img href= "EricJensenLEGO.jpg" />
+    <img src= "EricJensenBug.jpg" />
+    <img src= "EricJensenBuilding.jpg" />
+    <img src= "EricJensenLEGO.jpg" />
   </div>
 </body>
 </html>
